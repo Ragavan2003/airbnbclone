@@ -18,7 +18,7 @@ function SearchPage() {
             
 
             <SearchResult
-                img="http://www.unitechgroup.com/images/Property/chennai-palm-premiere-1.jpg"
+                img="https://a0.muscache.com/im/pictures/miso/Hosting-925845752085523547/original/316ffd52-b4a7-4534-8f06-000b5aa99289.jpeg?im_w=1200"
                 location="Private room in center of London"
                 title="Independant luxury studio apartment"
                 description="2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen"
